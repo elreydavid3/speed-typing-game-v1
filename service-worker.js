@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elreydavid3/speed-typing-game-v1/precache-manifest.2a8b7058aba8ea6092eb6ab4c9e805d6.js"
+  "/elreydavid3/speed-typing-game-v1/precache-manifest.bece83fc43793e71f2604133647120b1.js"
 );
 
 self.addEventListener('message', (event) => {
