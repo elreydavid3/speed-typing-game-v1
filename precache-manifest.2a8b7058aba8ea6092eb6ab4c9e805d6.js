@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bb18f89294a50d60fcf299ababd057f",
+    "revision": "36c8ee6b7160352511be1f9e70ad8da8",
     "url": "/elreydavid3/speed-typing-game-v1/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elreydavid3/speed-typing-game-v1/static/js/2.cdfa3d83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc8cdeb021e3779040f8",
-    "url": "/elreydavid3/speed-typing-game-v1/static/js/main.e7333713.chunk.js"
+    "revision": "6afacff79d3740adb643",
+    "url": "/elreydavid3/speed-typing-game-v1/static/js/main.b1815c45.chunk.js"
   },
   {
     "revision": "c837ce45e01a8620cf19",
