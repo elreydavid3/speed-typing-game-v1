@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react'
+import "./style.css"
 
 function App(){
     const STARTING_TIME = 10
