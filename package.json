@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://github.com/elreydavid3/speed-typing-game-v1",
+  "homepage": "https://elreydavid3.github.io/speed-typing-game-v1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
