@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d06894217098c38e327ec9909e6b35e",
+    "revision": "31798eb562f78722a76f010a4a7c0f10",
     "url": "/speed-typing-game-v1/index.html"
   },
   {
